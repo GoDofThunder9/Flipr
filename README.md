@@ -38,4 +38,4 @@ Due to ongoing exams, some tasks are yet to be completed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/yourprojectname.git
+   git clone https://github.com/GoDofThunder9/Flipr
