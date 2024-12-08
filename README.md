@@ -11,6 +11,7 @@ Due to ongoing end-semester exams, some tasks are pending, but the project will 
 ### 1. Figma Design
 - Created an initial design based on the provided frontend requirements using Figma.
 - Designed multiple screens and UI components to visualize the application's user interface.
+- https://www.figma.com/design/OivVTmtlADR2Xbe2iTMIcp/Untitled?t=JwWSD9cSkxAOjaW0-0
 
 ### 2. Frontend Development
 - Converted the Figma design into functional components using HTML, CSS, and JavaScript (or React if applicable).
@@ -39,3 +40,24 @@ Due to ongoing exams, some tasks are yet to be completed:
 1. Clone the repository:
    ```bash
    git clone https://github.com/GoDofThunder9/Flipr
+
+Navigate to the project directory:
+
+cd Frontend
+Install necessary dependencies for both the frontend and backend:
+
+npm install
+Run the development server:
+
+bash
+Copy code
+npm start
+Access the application at http://localhost:5173.
+
+Technologies Used
+Frontend: HTML, CSS, JavaScript (React, if applicable)
+Backend: Node.js, Express.js
+Database: MongoDB
+Deployment: AWS EC2, Ubuntu (or any other chosen server)
+
+
