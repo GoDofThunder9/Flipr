@@ -7,16 +7,15 @@ function Banner(){
     <div className='banner'>
       <>
       <div>
-      <div className='FORM'>
-        <Form/>
-      </div>
-       <img src={banner} alt="cantLoad"  />
+        <div className='FORM'>
+          <Form/>
+        </div>
+       <img src={banner} alt="cantLoad"/>
        <div className='tag'>
        Consultation,
        Design,& Marketing
        </div>
       </div>
-     
       </>
     </div>
   )

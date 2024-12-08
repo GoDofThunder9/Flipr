@@ -2,9 +2,6 @@ import React from 'react';
 import  '../assets/Style/Navbar.css';
 import Logo from '../assets/Images/Images/logo.svg'
 import Banner from './Banner';
-import Intro from './Intro';
-import Aboutus from './aboutus';
-import OurProjectComponent from './Project';
 function Navbar() {
   return (
     <>
@@ -19,9 +16,6 @@ function Navbar() {
        <button className='Button1'> CONTACT</button>
     </div>
     <Banner/>
-    <Intro/>
-    <Aboutus/>
-    <OurProjectComponent/>
     </>
   )
 }
