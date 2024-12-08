@@ -6,7 +6,7 @@ function App() {
       <>
       <BrowserRouter>
       <Routes>
-        <Route path="/nav" element={<Navbar/>}/>
+        <Route path="/" element={<Navbar/>}/>
       </Routes>
       </BrowserRouter>
       </>
